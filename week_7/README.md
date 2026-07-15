@@ -1,1 +1,0 @@
-# Student-name-Omar-Mustafe-Abdurazak-Student-ID-202407010017-python-programming
