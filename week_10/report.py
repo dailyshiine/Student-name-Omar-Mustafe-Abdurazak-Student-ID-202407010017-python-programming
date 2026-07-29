@@ -1,0 +1,11 @@
+def print_report(name, emp_id, gross_salary, epf, socso, net_salary):
+    print("\n========== SALARY REPORT ==========")
+    print(f"Employee Name : {name}")
+    print(f"Employee ID   : {emp_id}")
+    print("-" * 35)
+    print(f"Gross Salary  : RM {gross_salary:.2f}")
+    print(f"EPF (11%)     : RM {epf:.2f}")
+    print(f"SOCSO (0.5%)  : RM {socso:.2f}")
+    print("-" * 35)
+    print(f"Net Salary    : RM {net_salary:.2f}")
+    print("===================================")
